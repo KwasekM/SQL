@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![21901980_6500351 (2)](https://github.com/KwasekM/SQL/assets/120929766/e375926b-f505-4309-9a70-a58d09357861)" />
+  <img src="https://github.com/KwasekM/SQL/assets/120929766/e375926b-f505-4309-9a70-a58d09357861" />
 </p>
 
 
