@@ -45,6 +45,7 @@ OR  (current_opinion IS NOT NULL and previous_opinion IS NULL)
 ORDER BY opinion_giver, opinion_receiver
 ```
 ![Zrzut ekranu 2024-05-09 000819](https://github.com/KwasekM/SQL/assets/120929766/4bd16cbf-7b6b-4b50-a937-e55e2b5be42e)
+
 2. Return the list of films that have not been rented out at all in the past month, but have been rented at least 10 times in total. Include the film_id, title of the film and in the brackets, its rating, rental count, and the date of the most recent rental. Since the business is in America, please use American date notation (for example, 'April 09, 2023').
 
 ```sql
