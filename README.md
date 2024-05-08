@@ -1,4 +1,4 @@
-https://github.com/KwasekM/SQL/assets/120929766/bc958d47-ba27-45dd-8e8e-c36fca698c53
+![21901980_6500351](https://github.com/KwasekM/SQL/assets/120929766/4cab1a64-cc8d-48c3-9ff0-845a13630ea7)
 # 🚀 Summary and demonstration of my SQL skills 🚀
 
 1. [Summary of my skills](#subtask1)
