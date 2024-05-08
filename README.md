@@ -13,4 +13,7 @@
 * Using aggregate functions (SUM, MIN, MAX, AVG) to restrict returned data set.
 * Using HAVING clause to restrict returned data set.
 * Using GROUP BY clause to organize returned data set.
+* Using string, date, and time functions.
+* Using the CREATE TABLE command to design data tables.
+* Using the ALTER TABLE command to modify a table.
 
