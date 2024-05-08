@@ -1,3 +1,4 @@
+(https://github.com/KwasekM/SQL/assets/120929766/bc958d47-ba27-45dd-8e8e-c36fca698c53)
 # 🚀 Summary and demonstration of my SQL skills 🚀
 
 1. [Summary of my skills](#subtask1)
