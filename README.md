@@ -2,12 +2,10 @@
   <img src="https://github.com/KwasekM/SQL/assets/120929766/e375926b-f505-4309-9a70-a58d09357861" />
 </p>
 
-
 # 🚀 Summary and demonstration of my SQL skills 🚀
 
 1. [Summary of my skills](#subtask1)
 2. [SQL tasks](#subtask2)
-
 
    
 ## <a name="subtask1">My SQL skills</a>
@@ -69,3 +67,5 @@ ORDER BY
   last_rental_date DESC, 
   film.title
 ```
+![Zrzut ekranu 2024-05-09 001452](https://github.com/KwasekM/SQL/assets/120929766/1f7db226-d7ec-45ba-9e9b-3b1932a09c99)
+
