@@ -22,3 +22,4 @@
 * Using the CREATE TABLE command to design data tables.
 * Using the ALTER TABLE command to modify a table.
 
+#  <a name="subtask2"> SQL tasks from coderwars solved by me 👩‍💻 </a>
