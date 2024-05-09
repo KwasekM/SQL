@@ -2,7 +2,7 @@
   <img src="https://github.com/KwasekM/SQL/assets/120929766/e375926b-f505-4309-9a70-a58d09357861" />
 </p>
 <p align="center">
- <a href="https://pl.freepik.com/darmowe-wektory/recznie-rysowane-ilustracja-plaska-konstrukcja-sql_21901980.htm#fromView=search&page=1&position=0&uuid=102afa6a-6594-46f0-88ca-31fc63a26c0c">Obraz autorstwa freepik</a>
+ <a href="https://pl.freepik.com/darmowe-wektory/recznie-rysowane-ilustracja-plaska-konstrukcja-sql_21901980.htm#fromView=search&page=1&position=0&uuid=102afa6a-6594-46f0-88ca-31fc63a26c0c">Image by freepik</a>
 </p>
 
 
