@@ -13,6 +13,15 @@
 
    
 ## <a name="subtask1">My SQL skills</a>
+
+#### Where I learned from:
+<p>
+ <a href="https://www.udemy.com/certificate/UC-2f71cbdd-4260-4d64-bd4b-28782ef619f2/">
+Postman: The Complete Guide - REST API Testing
+</a>
+</p>
+
+#### What I've learned:
 * Using SELECT sql command to query one and multiple tables.
 * Using SELECT sql command with WHERE clauses to filter and refine queries.
 * Using SELECT sql command with WHERE clauses and boolean operators (AND, OR, NOT, LIKE, IN, BETWEEN) to filter and refine queries.
